@@ -151,7 +151,7 @@ alias doomdoctor="~/.emacs.d/bin/doom doctor"
 alias doomupgrade="~/.emacs.d/bin/doom upgrade"
 alias doompurge="~/.emacs.d/bin/doom purge"
  bat
-# alias cat='bat'
+ alias cat='bat'
 
 # broot
 alias br='broot -dhp'
