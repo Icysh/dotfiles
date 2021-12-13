@@ -61,7 +61,7 @@ filetype plugin indent on    " required
 "set path+=**					" Searches current directory recursively.
 set wildmenu					" Display all matches when tab complete.
 set incsearch                   " Incremental search
-set hidden                      " Needed to keep multiple buffers open
+"set hidden                      " Needed to keep multiple buffers open
 set nobackup                    " No auto backups
 set noswapfile                  " No swap
 set t_Co=256                    " Set if term supports 256 colors.
