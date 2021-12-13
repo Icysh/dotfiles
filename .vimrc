@@ -136,7 +136,7 @@ highlight Function         ctermfg=1    ctermbg=none    cterm=none
 " highlight FoldColumn       ctermfg=103     ctermbg=234     cterm=none
 " highlight DiffAdd          ctermfg=none    ctermbg=23      cterm=none
 " highlight DiffChange       ctermfg=none    ctermbg=56      cterm=none
-" highlight DiffDelete       ctermfg=168     ctermbg=96      cterm=none
+ highlight DiffDelete       ctermfg=168     ctermbg=96      cterm=none
 " highlight DiffText         ctermfg=0       ctermbg=80      cterm=none
 " highlight SignColumn       ctermfg=244     ctermbg=235     cterm=none
 " highlight Conceal          ctermfg=251     ctermbg=none    cterm=none
