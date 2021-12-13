@@ -152,7 +152,7 @@ highlight Function         ctermfg=1    ctermbg=none    cterm=none
 " highlight TablineSel       ctermfg=0       ctermbg=247     cterm=none
 " highlight TablineFill      ctermfg=244     ctermbg=234     cterm=none
 " highlight CursorColumn     ctermfg=none    ctermbg=236     cterm=none
-" highlight CursorLine       ctermfg=none    ctermbg=236     cterm=none
+ highlight CursorLine       ctermfg=none    ctermbg=236     cterm=none
 " highlight ColorColumn      ctermfg=none    ctermbg=236     cterm=none
 " highlight Cursor           ctermfg=0       ctermbg=5       cterm=none
 " highlight htmlEndTag       ctermfg=114     ctermbg=none    cterm=none
