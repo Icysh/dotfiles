@@ -58,7 +58,7 @@ filetype plugin indent on    " required
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => General Settings
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-set path+=**					" Searches current directory recursively.
+"set path+=**					" Searches current directory recursively.
 set wildmenu					" Display all matches when tab complete.
 set incsearch                   " Incremental search
 set hidden                      " Needed to keep multiple buffers open
