@@ -1,2 +1,2 @@
 # Dotfiles
-A collection of various dotfiles and config scripts used on Arch-based systems.
+A collection of various dotfiles and config scripts used on Arch.
